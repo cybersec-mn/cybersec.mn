@@ -24,6 +24,13 @@
       'hero.cta': 'Дэлгэрэнгүй',
       'hero.cta2': 'Хөтөлбөрүүд',
 
+      'marquee.1': 'Кибер аюулгүй байдал',
+      'marquee.2': 'Дижитал иргэн',
+      'marquee.3': 'Ил тод байдал',
+      'marquee.4': 'Судалгаа',
+      'marquee.5': 'Сургалт',
+      'marquee.6': 'Бодлого',
+
       'about.eyebrow': 'Бидний тухай',
       'about.heading': 'Институтын танилцуулга',
       'about.p1': '"Кибер аюулгүй байдлын хөгжлийн манлайлал хүрээлэн" нь 2024 онд Монгол улсын хуулийн этгээдийн улсын бүртгэлд бүртгэгдсэн ашгийн бус, нийгэмд үйлчлэх төрийн бус байгууллага юм.',
@@ -106,6 +113,13 @@
       'hero.lede': 'A Mongolian non-profit conducting research, training, and projects across cybersecurity, digital civic infrastructure, transparency, and citizen awareness.',
       'hero.cta': 'Learn more',
       'hero.cta2': 'Programs',
+
+      'marquee.1': 'Cybersecurity',
+      'marquee.2': 'Digital Civic Tech',
+      'marquee.3': 'Transparency',
+      'marquee.4': 'Research',
+      'marquee.5': 'Training',
+      'marquee.6': 'Policy',
 
       'about.eyebrow': 'About',
       'about.heading': 'About the Institute',
