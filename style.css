@@ -107,43 +107,24 @@ button:focus-visible {
   align-items: center;
   gap: 14px;
   color: var(--ink);
-  flex: 1 1 auto;
+  flex: 0 1 auto;
   min-width: 0;
+  margin-right: auto;
 }
 .brand:hover { color: var(--ink); }
-.brand-mark {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 36px;
-  height: 36px;
-  flex: 0 0 auto;
+.brand-logo {
+  display: block;
+  height: 40px;
+  width: auto;
+  /* invert the original blue-on-white logo to white silhouette for dark theme */
+  filter: brightness(0) invert(1);
+  transition: filter var(--transition);
 }
-.brand-mark svg path:first-child {
-  fill: transparent;
-  stroke: var(--ink);
+.brand:hover .brand-logo {
+  filter: brightness(0) invert(1) drop-shadow(0 0 12px rgba(255, 255, 255, 0.25));
 }
-.brand-mark svg path:last-child {
-  stroke: var(--accent);
-}
-.brand-text {
-  display: flex;
-  flex-direction: column;
-  line-height: 1.15;
-  min-width: 0;
-}
-.brand-name {
-  font-weight: 700;
-  font-size: 15px;
-  letter-spacing: 0.01em;
-  color: var(--ink);
-}
-.brand-tag {
-  font-size: 10.5px;
-  color: var(--ink-muted);
-  font-weight: 500;
-  letter-spacing: 0.16em;
-  text-transform: uppercase;
+@media (max-width: 480px) {
+  .brand-logo { height: 32px; }
 }
 
 .primary-nav {
