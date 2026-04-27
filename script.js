@@ -53,6 +53,9 @@
 
       'prog.eyebrow': 'Хөтөлбөрүүд',
       'prog.heading': 'Хэрэгжүүлсэн ба бэлтгэж буй хөтөлбөр',
+      'prog.p0.num': 'PROG-01 · ИДЭВХТЭЙ',
+      'prog.p0.title': 'Кибер аюул заналын тандалт, шинжилгээний систем',
+      'prog.p0.body': 'Кибер аюулгүй байдлын судалгаа (12 KPI dashboard), аюул заналын шинжилгээ (STIX/TAXII, IOC, CVE feed), нийгмийн тандалт (sentiment analysis) хослуулсан цогц платформ. ISO/IEC 27001:2022, NIST SP 800-53, OWASP стандартад нийцүүлэн хөгжүүлж байна.',
       'prog.p1.title': 'Сурагчдад зориулсан кибер бүүткэмп',
       'prog.p1.body': '"Дижитал эрин үеийн аюулгүй байдлын баталгаа" сэдэвт долоо хоногийн эрчимжүүлсэн хөтөлбөр. Дунд, ахлах ангийн сурагчдад кибер аюулгүй байдлын суурь мэдлэг олгоно.',
       'prog.p2.title': 'CC мэргэжилтэн бэлтгэх',
@@ -142,6 +145,9 @@
 
       'prog.eyebrow': 'Programs',
       'prog.heading': 'Programs delivered and in preparation',
+      'prog.p0.num': 'PROG-01 · ACTIVE',
+      'prog.p0.title': 'Cyber Threat Intelligence & Monitoring System',
+      'prog.p0.body': 'An integrated platform combining cybersecurity research (12-KPI dashboard), threat intelligence (STIX/TAXII, IOC, CVE feeds), and social monitoring (sentiment analysis). Built to ISO/IEC 27001:2022, NIST SP 800-53, and OWASP standards.',
       'prog.p1.title': 'Student Cybersecurity Bootcamp',
       'prog.p1.body': 'A week-long intensive program — "Digital-era Safety Foundations" — equipping middle and high school students with core cybersecurity knowledge.',
       'prog.p2.title': 'Certified in Cybersecurity (CC)',
