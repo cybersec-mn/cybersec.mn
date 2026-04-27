@@ -116,12 +116,10 @@ button:focus-visible {
   display: block;
   height: 40px;
   width: auto;
-  /* invert the original blue-on-white logo to white silhouette for dark theme */
-  filter: brightness(0) invert(1);
   transition: filter var(--transition);
 }
 .brand:hover .brand-logo {
-  filter: brightness(0) invert(1) drop-shadow(0 0 12px rgba(255, 255, 255, 0.25));
+  filter: drop-shadow(0 0 12px rgba(255, 255, 255, 0.25));
 }
 @media (max-width: 480px) {
   .brand-logo { height: 32px; }
