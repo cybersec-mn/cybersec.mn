@@ -87,7 +87,6 @@
       'contact.heading': 'Бидэнтэй холбогдох',
       'contact.body': 'Хамтын ажиллагаа, түншлэл, төсөл санал, судалгааны хүсэлтийн талаар имэйлээр холбогдоно уу.',
       'contact.email': 'Имэйл',
-      'contact.phone': 'Утас',
       'contact.location': 'Байршил',
       'contact.city': 'Улаанбаатар, Монгол улс',
 
@@ -177,7 +176,6 @@
       'contact.heading': 'Get in touch',
       'contact.body': 'For collaboration, partnership, project proposals, or research inquiries, please reach out via email.',
       'contact.email': 'Email',
-      'contact.phone': 'Phone',
       'contact.location': 'Location',
       'contact.city': 'Ulaanbaatar, Mongolia',
 
