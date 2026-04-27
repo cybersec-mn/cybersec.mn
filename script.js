@@ -8,37 +8,63 @@
     mn: {
       'skip': 'Үндсэн хэсэг рүү шилжих',
 
-      'brand.name': 'CyberSec Институт',
-      'brand.tag': 'Дижитал иргэний дэд бүтэц',
+      'brand.name': 'CyberSec Хүрээлэн',
+      'brand.tag': 'CYBER · CIVIC · ИЛ ТОД',
 
       'nav.about': 'Бидний тухай',
       'nav.focus': 'Үйл ажиллагаа',
-      'nav.pal': 'PAL',
-      'nav.leadership': 'Үүсгэн байгуулагч',
+      'nav.programs': 'Хөтөлбөр',
+      'nav.registry': 'Бүртгэл',
       'nav.contact': 'Холбоо барих',
 
       'hero.eyebrow': 'Монголын төрийн бус байгууллага · 2024',
-      'hero.title': 'CyberSec Хөгжил, Манлайллын Институт',
-      'hero.tagline': 'Дижитал иргэний дэд бүтэц, ил тод байдлын төлөө',
-      'hero.lede': 'Ил тод байдал, олон нийтийн хариуцлага, кибер аюулгүй байдлын чиглэлээр ажилладаг Монголын ашгийн бус байгууллага.',
-      'hero.cta': 'Дэлгэрэнгүй танилцах',
+      'hero.title': 'Кибер аюулгүй байдлын хөгжлийн манлайлал хүрээлэн',
+      'hero.tagline': 'Үндэсний онцлогт тохирсон, олон улсад жишиг болохуйц кибер аюулгүй байдлын тогтолцоо',
+      'hero.lede': 'Бид кибер аюулгүй байдал, дижитал иргэний дэд бүтэц, ил тод байдал, иргэдийн мэдлэг түгээх чиглэлээр судалгаа, сургалт, төсөл хөтөлбөр хэрэгжүүлдэг Монголын ашгийн бус байгууллага.',
+      'hero.cta': 'Дэлгэрэнгүй',
+      'hero.cta2': 'Хөтөлбөрүүд',
 
       'about.eyebrow': 'Бидний тухай',
       'about.heading': 'Институтын танилцуулга',
-      'about.p1': 'CyberSec Хөгжил, Манлайллын Институт нь 2024 онд улсын бүртгэлд бүртгэгдсэн Монголын ашгийн бус байгууллага юм. Бид ил тод байдал, олон нийтийн хариуцлага, кибер аюулгүй байдлын чиглэлээр судалгаа, мэдлэг түгээх ажил эрхэлдэг.',
+      'about.p1': '"Кибер аюулгүй байдлын хөгжлийн манлайлал хүрээлэн" нь 2024 онд Монгол улсын хуулийн этгээдийн улсын бүртгэлд бүртгэгдсэн ашгийн бус, нийгэмд үйлчлэх төрийн бус байгууллага юм.',
+      'about.p2': 'Манай хүрээлэнгийн эрхэм зорилго: Монгол улсын кибер аюулгүй байдлын тогтолцоо нь олон улсад жишиг болсон, нийгэм, эдийн засгийн дэвшлийн хөгжлийн хурдасгуур болсон, иргэдийн ирээдүйг бүтээлцэхэд хувь нэмрээ оруулахад чиглэсэн идэвхи санаачлагатай үйл ажиллагаа явуулна.',
 
       'focus.eyebrow': 'Үйл ажиллагааны чиглэл',
-      'focus.heading': 'Эрхэм зорилго ба гол чиглэлүүд',
-      'focus.c1.title': 'Олон нийтийн хариуцлага',
-      'focus.c1.body': 'Олон нийтэд өгсөн амлалтуудыг архивлах, баримтжуулах судалгаа.',
-      'focus.c2.title': 'Дижитал иргэний хэрэгсэл',
-      'focus.c2.body': 'Монгол хэлний орчинд зориулсан ил тод байдлын нээлттэй эхийн хэрэгслүүд.',
-      'focus.c3.title': 'Кибер аюулгүй байдал',
-      'focus.c3.body': 'Иргэний нийгмийн дижитал аюулгүй байдлын мэдлэг түгээх ажил.',
+      'focus.heading': 'Бид юу хийдэг вэ',
+      'focus.c1.title': 'Бодлогын судалгаа',
+      'focus.c1.body': 'Кибер аюулгүй байдлын тогтолцоо, дижитал бодлогын чиглэлээр шинжилгээ, судалгаа хийнэ.',
+      'focus.c2.title': 'Технологи, инноваци',
+      'focus.c2.body': 'Дижитал иргэний хэрэгсэл, нээлттэй эх шийдэл, инновацын төслүүдийг дэмжих.',
+      'focus.c3.title': 'Зөвлөхийн үйлчилгээ',
+      'focus.c3.body': 'Байгууллага, төрийн болон төрийн бус байгууллагуудад мэргэжлийн зөвлөгөө өгнө.',
+      'focus.c4.title': 'Сургалт, гэрчилгээ',
+      'focus.c4.body': 'Кибер аюулгүй байдлын мэргэжилтэн бэлтгэх, олон улсад хүлээн зөвшөөрөгдөх сертификатын сургалт явуулах.',
+      'focus.c5.title': 'Олон улсын туршлага',
+      'focus.c5.body': 'Олон улсын сайн туршлагыг судалж, Монгол улсын онцлогт нийцүүлэн нэвтрүүлнэ.',
+      'focus.c6.title': 'Нөлөөлөл, мэдээлэл',
+      'focus.c6.body': 'Иргэдийн дижитал аюулгүй байдлын мэдлэгийг түгээх, олон нийтийг мэдэлжүүлэх.',
 
-      'pal.eyebrow': 'Судалгааны чиглэл',
-      'pal.heading': 'Public Accountability Ledger',
-      'pal.lede': 'Олон нийтэд өгсөн амлалт, мэдэгдлийг баримтжуулан архивлах судалгааны чиглэлийн ажил. Энэхүү чиглэлээр өгөгдөл цуглуулах, шалгах, хадгалах арга зүйг боловсруулж байна.',
+      'prog.eyebrow': 'Хөтөлбөрүүд',
+      'prog.heading': 'Хэрэгжүүлсэн ба бэлтгэж буй хөтөлбөр',
+      'prog.p1.title': 'Сурагчдад зориулсан кибер бүүткэмп',
+      'prog.p1.body': '"Дижитал эрин үеийн аюулгүй байдлын баталгаа" сэдэвт долоо хоногийн эрчимжүүлсэн хөтөлбөр. Дунд, ахлах ангийн сурагчдад кибер аюулгүй байдлын суурь мэдлэг олгоно.',
+      'prog.p2.title': 'CC мэргэжилтэн бэлтгэх',
+      'prog.p2.body': 'Олон улсад хүлээн зөвшөөрөгдөх Certified in Cybersecurity (CC) гэрчилгээт сургалт. Монгол улсын кибер аюулгүй байдлын зах зээлд шинэ мэргэжилтэн бэлтгэх.',
+      'prog.p3.title': 'Хувь хүний мэдээллийн хамгаалалт',
+      'prog.p3.body': 'Цахим орчинд иргэдийн өөрийн болон гэр бүлийн мэдээллийн аюулгүй байдлыг хангах мэдлэг түгээх боловсролын төсөл.',
+      'prog.p4.title': 'Public Accountability Ledger',
+      'prog.p4.body': 'Олон нийтэд өгсөн амлалтуудыг баримтжуулан архивлах судалгааны чиглэлийн ажил. Өгөгдөл цуглуулах, шалгах, хадгалах арга зүйг боловсруулж байна.',
+
+      'reg.eyebrow': 'Албан ёсны бүртгэл',
+      'reg.heading': 'Хуулийн этгээдийн мэдээлэл',
+      'reg.intro': 'Хүрээлэн нь Монгол Улсын Хууль зүйн яамны Улсын бүртгэлийн ерөнхий газарт албан ёсоор бүртгэгдсэн ашгийн бус, нийгэмд үйлчлэх төрийн бус байгууллага юм.',
+      'reg.d1': 'Албан нэр',
+      'reg.d1v': 'Кибер аюулгүй байдлын хөгжлийн манлайлал хүрээлэн НҮТББ',
+      'reg.d2': 'Бүртгэгдсэн',
+      'reg.d3': 'Гэрчилгээ',
+      'reg.d4': 'Улсын бүртгэл',
+      'reg.d5': 'Регистр',
+      'reg.d6': 'Үйл ажиллагааны код',
 
       'lead.eyebrow': 'Үүсгэн байгуулагч',
       'lead.heading': 'Үүсгэн байгуулагч',
@@ -52,49 +78,76 @@
 
       'contact.eyebrow': 'Холбоо барих',
       'contact.heading': 'Бидэнтэй холбогдох',
-      'contact.body': 'Хамтын ажиллагаа, түншлэлийн талаар имэйлээр холбогдоно уу.',
+      'contact.body': 'Хамтын ажиллагаа, түншлэл, төсөл санал, судалгааны хүсэлтийн талаар имэйлээр холбогдоно уу.',
       'contact.email': 'Имэйл',
+      'contact.phone': 'Утас',
       'contact.location': 'Байршил',
       'contact.city': 'Улаанбаатар, Монгол улс',
 
       'footer.copy': '© 2024 Кибер аюулгүй байдлын хөгжлийн манлайлал хүрээлэн НҮТББ',
-      'footer.reg': 'Улсын бүртгэл: 9071109519 · Регистр: 7012777'
+      'footer.reg': '9071109519 · 7012777 · 000298232'
     },
 
     en: {
       'skip': 'Skip to main content',
 
       'brand.name': 'CyberSec Institute',
-      'brand.tag': 'Digital civic infrastructure',
+      'brand.tag': 'CYBER · CIVIC · TRANSPARENCY',
 
       'nav.about': 'About',
-      'nav.focus': 'Focus areas',
-      'nav.pal': 'PAL',
-      'nav.leadership': 'Founder',
+      'nav.focus': 'Focus',
+      'nav.programs': 'Programs',
+      'nav.registry': 'Registry',
       'nav.contact': 'Contact',
 
-      'hero.eyebrow': 'Mongolian non-profit · 2024',
-      'hero.title': 'CyberSec Development Leadership Institute',
-      'hero.tagline': 'Building digital civic infrastructure for transparency and accountability',
-      'hero.lede': 'A Mongolian non-profit working on transparency, public accountability, and cybersecurity.',
+      'hero.eyebrow': 'Mongolian non-profit · Established 2024',
+      'hero.title': 'Cyber Security Development Leadership Institute',
+      'hero.tagline': 'A cybersecurity ecosystem fitted to the Mongolian context, aligned with international standards',
+      'hero.lede': 'A Mongolian non-profit conducting research, training, and projects across cybersecurity, digital civic infrastructure, transparency, and citizen awareness.',
       'hero.cta': 'Learn more',
+      'hero.cta2': 'Programs',
 
       'about.eyebrow': 'About',
       'about.heading': 'About the Institute',
-      'about.p1': 'The CyberSec Development Leadership Institute is a Mongolian non-profit registered in 2024. Our work focuses on transparency, public accountability, and cybersecurity through research and knowledge-sharing.',
+      'about.p1': 'The Cyber Security Development Leadership Institute is a Mongolian non-profit, public-benefit NGO registered with the General Authority for State Registration of Mongolia in 2024.',
+      'about.p2': 'Our mission: to actively contribute to the development of a cybersecurity ecosystem in Mongolia that meets international standards, accelerates social and economic progress, and helps shape the future for citizens.',
 
       'focus.eyebrow': 'Focus areas',
-      'focus.heading': 'Mission and focus areas',
-      'focus.c1.title': 'Public Accountability',
-      'focus.c1.body': 'Research on archiving and documenting public commitments.',
-      'focus.c2.title': 'Digital Civic Tooling',
-      'focus.c2.body': 'Open-source transparency tools designed for the Mongolian-language context.',
-      'focus.c3.title': 'Cybersecurity',
-      'focus.c3.body': 'Digital security awareness work for civil society.',
+      'focus.heading': 'What we do',
+      'focus.c1.title': 'Policy Research',
+      'focus.c1.body': 'Analytical and policy research on cybersecurity systems and digital governance.',
+      'focus.c2.title': 'Technology & Innovation',
+      'focus.c2.body': 'Support for digital civic tools, open-source solutions, and innovation projects.',
+      'focus.c3.title': 'Advisory Services',
+      'focus.c3.body': 'Professional advisory for public, private, and civil-society organizations.',
+      'focus.c4.title': 'Training & Certification',
+      'focus.c4.body': 'Training programs to develop cybersecurity professionals, including internationally recognized certifications.',
+      'focus.c5.title': 'International Practice',
+      'focus.c5.body': 'Studying international best practices and adapting them to the Mongolian context.',
+      'focus.c6.title': 'Awareness & Outreach',
+      'focus.c6.body': 'Disseminating digital safety knowledge and raising public awareness.',
 
-      'pal.eyebrow': 'Research focus',
-      'pal.heading': 'Public Accountability Ledger',
-      'pal.lede': 'A research focus on documenting and archiving public commitments and statements. We are developing methods for collecting, verifying, and preserving such records.',
+      'prog.eyebrow': 'Programs',
+      'prog.heading': 'Programs delivered and in preparation',
+      'prog.p1.title': 'Student Cybersecurity Bootcamp',
+      'prog.p1.body': 'A week-long intensive program — "Digital-era Safety Foundations" — equipping middle and high school students with core cybersecurity knowledge.',
+      'prog.p2.title': 'Certified in Cybersecurity (CC)',
+      'prog.p2.body': 'Internationally recognized Certified in Cybersecurity (CC) training. Building Mongolia\'s pipeline of qualified cybersecurity professionals.',
+      'prog.p3.title': 'Personal Data Protection',
+      'prog.p3.body': 'Public-education program helping citizens protect their personal and family data in the digital environment.',
+      'prog.p4.title': 'Public Accountability Ledger',
+      'prog.p4.body': 'Research focus on documenting and archiving public commitments. Developing methods for collection, verification, and preservation.',
+
+      'reg.eyebrow': 'Official registration',
+      'reg.heading': 'Legal entity information',
+      'reg.intro': 'The Institute is officially registered as a non-profit, public-benefit NGO with the General Authority for State Registration of Mongolia.',
+      'reg.d1': 'Official name',
+      'reg.d1v': 'Cyber Security Development Leadership Institute (NGO)',
+      'reg.d2': 'Registered',
+      'reg.d3': 'Certificate',
+      'reg.d4': 'State legal entity',
+      'reg.d5': 'Registration ID',
+      'reg.d6': 'Activity code',
 
       'lead.eyebrow': 'Founder',
       'lead.heading': 'Founder',
@@ -108,19 +161,20 @@
 
       'contact.eyebrow': 'Contact',
       'contact.heading': 'Get in touch',
-      'contact.body': 'For collaboration or partnership inquiries, please reach out via email.',
+      'contact.body': 'For collaboration, partnership, project proposals, or research inquiries, please reach out via email.',
       'contact.email': 'Email',
+      'contact.phone': 'Phone',
       'contact.location': 'Location',
       'contact.city': 'Ulaanbaatar, Mongolia',
 
       'footer.copy': '© 2024 Cyber Security Development Leadership Institute NGO',
-      'footer.reg': 'State legal entity registry: 9071109519 · Registration: 7012777'
+      'footer.reg': '9071109519 · 7012777 · 000298232'
     }
   };
 
   const META_TITLE = {
-    mn: 'CyberSec Институт — Дижитал иргэний дэд бүтэц',
-    en: 'CyberSec Institute — Digital civic infrastructure'
+    mn: 'Кибер аюулгүй байдлын хөгжлийн манлайлал хүрээлэн',
+    en: 'Cyber Security Development Leadership Institute'
   };
 
   function getStoredLang() {
@@ -178,7 +232,7 @@
       return;
     }
 
-    const targets = document.querySelectorAll('.section, .hero, .card, .person');
+    const targets = document.querySelectorAll('.section, .hero, .card, .person, .data-row');
     targets.forEach(function (el) { el.classList.add('reveal'); });
 
     const io = new IntersectionObserver(function (entries) {
