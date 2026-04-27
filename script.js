@@ -14,10 +14,10 @@
       'nav.about': 'Бидний тухай',
       'nav.focus': 'Үйл ажиллагаа',
       'nav.pal': 'PAL',
-      'nav.leadership': 'Удирдлага',
+      'nav.leadership': 'Үүсгэн байгуулагч',
       'nav.contact': 'Холбоо барих',
 
-      'hero.eyebrow': 'Монголын төрийн бус байгууллага · 2026',
+      'hero.eyebrow': 'Монголын төрийн бус байгууллага · 2024',
       'hero.title': 'CyberSec Хөгжил, Манлайллын Институт',
       'hero.tagline': 'Дижитал иргэний дэд бүтэц, ил тод байдлын төлөө',
       'hero.lede': 'Ил тод байдал, олон нийтийн хариуцлага, кибер аюулгүй байдлын чиглэлээр ажилладаг Монголын ашгийн бус байгууллага.',
@@ -25,7 +25,7 @@
 
       'about.eyebrow': 'Бидний тухай',
       'about.heading': 'Институтын танилцуулга',
-      'about.p1': 'CyberSec Хөгжил, Манлайллын Институт нь 2026 онд үүсгэн байгуулагдсан Монголын ашгийн бус байгууллага юм. Бид ил тод байдал, олон нийтийн хариуцлага, кибер аюулгүй байдлын чиглэлээр судалгаа, мэдлэг түгээх ажил эрхэлдэг.',
+      'about.p1': 'CyberSec Хөгжил, Манлайллын Институт нь 2024 онд улсын бүртгэлд бүртгэгдсэн Монголын ашгийн бус байгууллага юм. Бид ил тод байдал, олон нийтийн хариуцлага, кибер аюулгүй байдлын чиглэлээр судалгаа, мэдлэг түгээх ажил эрхэлдэг.',
 
       'focus.eyebrow': 'Үйл ажиллагааны чиглэл',
       'focus.heading': 'Эрхэм зорилго ба гол чиглэлүүд',
@@ -40,10 +40,10 @@
       'pal.heading': 'Public Accountability Ledger',
       'pal.lede': 'Олон нийтэд өгсөн амлалт, мэдэгдлийг баримтжуулан архивлах судалгааны чиглэлийн ажил. Энэхүү чиглэлээр өгөгдөл цуглуулах, шалгах, хадгалах арга зүйг боловсруулж байна.',
 
-      'lead.eyebrow': 'Удирдлага',
-      'lead.heading': 'Удирдлага',
+      'lead.eyebrow': 'Үүсгэн байгуулагч',
+      'lead.heading': 'Үүсгэн байгуулагч',
       'lead.bm.name': 'С. Баярмагнай',
-      'lead.bm.role': 'Захирал',
+      'lead.bm.role': 'Үүсгэн байгуулагч',
       'lead.bm.bio': 'Infosec Intelligence ХХК‐ийн гүйцэтгэх захирал. Мэдээллийн аюулгүй байдлын чиглэлээр 10+ жилийн туршлагатай.',
 
       'part.eyebrow': 'Түншлэл',
@@ -57,8 +57,8 @@
       'contact.location': 'Байршил',
       'contact.city': 'Улаанбаатар, Монгол улс',
 
-      'footer.copy': '© 2026 CyberSec Хөгжил, Манлайллын Институт ТББ',
-      'footer.reg': 'Улсын бүртгэлийн ерөнхий газарт бүртгэл хийгдэж байна.'
+      'footer.copy': '© 2024 Кибер аюулгүй байдлын хөгжлийн манлайлал хүрээлэн НҮТББ',
+      'footer.reg': 'Улсын бүртгэл: 9071109519 · Регистр: 7012777'
     },
 
     en: {
@@ -70,10 +70,10 @@
       'nav.about': 'About',
       'nav.focus': 'Focus areas',
       'nav.pal': 'PAL',
-      'nav.leadership': 'Leadership',
+      'nav.leadership': 'Founder',
       'nav.contact': 'Contact',
 
-      'hero.eyebrow': 'Mongolian non-profit · 2026',
+      'hero.eyebrow': 'Mongolian non-profit · 2024',
       'hero.title': 'CyberSec Development Leadership Institute',
       'hero.tagline': 'Building digital civic infrastructure for transparency and accountability',
       'hero.lede': 'A Mongolian non-profit working on transparency, public accountability, and cybersecurity.',
@@ -81,7 +81,7 @@
 
       'about.eyebrow': 'About',
       'about.heading': 'About the Institute',
-      'about.p1': 'The CyberSec Development Leadership Institute is a Mongolian non-profit established in 2026. Our work focuses on transparency, public accountability, and cybersecurity through research and knowledge-sharing.',
+      'about.p1': 'The CyberSec Development Leadership Institute is a Mongolian non-profit registered in 2024. Our work focuses on transparency, public accountability, and cybersecurity through research and knowledge-sharing.',
 
       'focus.eyebrow': 'Focus areas',
       'focus.heading': 'Mission and focus areas',
@@ -96,10 +96,10 @@
       'pal.heading': 'Public Accountability Ledger',
       'pal.lede': 'A research focus on documenting and archiving public commitments and statements. We are developing methods for collecting, verifying, and preserving such records.',
 
-      'lead.eyebrow': 'Leadership',
-      'lead.heading': 'Leadership',
+      'lead.eyebrow': 'Founder',
+      'lead.heading': 'Founder',
       'lead.bm.name': 'S. Bayarmagnai',
-      'lead.bm.role': 'Director',
+      'lead.bm.role': 'Founder',
       'lead.bm.bio': 'CEO of Infosec Intelligence LLC. 10+ years of experience in information security.',
 
       'part.eyebrow': 'Partnerships',
@@ -113,8 +113,8 @@
       'contact.location': 'Location',
       'contact.city': 'Ulaanbaatar, Mongolia',
 
-      'footer.copy': '© 2026 CyberSec Development Leadership Institute NGO',
-      'footer.reg': 'Registration in progress with the General Authority for State Registration of Mongolia.'
+      'footer.copy': '© 2024 Cyber Security Development Leadership Institute NGO',
+      'footer.reg': 'State legal entity registry: 9071109519 · Registration: 7012777'
     }
   };
 
